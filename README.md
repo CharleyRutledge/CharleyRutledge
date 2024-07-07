@@ -1,5 +1,10 @@
-# 💫 About Me:
-🔭 I’m currently working on building my skills as a Software quality assurance tester!<br>🌱 I’m currently learning how to use Selenium, Playwright, Machine Learning <br>⚡ Fun fact - I really enjoy gaming and going for walks.
+# :wave: Hi, I'm Charley
+
+### 💫 About Me:
+ :office: Software quality assurance tester excited to learn new ways of testing!<br>
+:information_desk_person: Studied Software Development at Technology university of the Shannon <br>
+:computer: I’m currently learning how to use Selenium, Playwright, Machine Learning <br>
+⭐: Fun fact - I really enjoy gaming and going for walks.
 
 
 ## 🌐 Socials:
