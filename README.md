@@ -1,9 +1,15 @@
 # :wave: Hi, I'm Charley
 
 ### 💫 About Me:
- :office: Software quality assurance tester excited to learn new ways of testing!<br>
-:information_desk_person: Studied Software Development at Technology university of the Shannon <br>
-:computer: I’m currently learning how to use Selenium, Playwright, Machine Learning <br>
+I’m a QA professional based in Ireland with hands-on experience in both automation and manual testing. I’ve developed automation frameworks using C# and Selenium WebDriver, applying the Fluent Interface Design pattern to ensure readability, maintainability, and efficiency.
+
+Since 2024, I’ve worked across a variety of testing approaches including Manual, Functional, Regression, Unit, and Database Testing. I also bring experience with Playwright, Python, and the Cursor IDE.
+
+I use Model Context Protocol (MCP) in tandem with testing to integrate AI into my workflow, enhancing test efficiency, decision-making, and structured communication throughout the QA process. My work is supported by tools like Microsoft Azure DevOps, where I manage test cases, track defects, and maintain visibility across the development lifecycle.
+
+I’m confident working independently or collaboratively, with a strong analytical mindset that helps me address challenges effectively and drive continuous improvement.
+
+I’m always open to learning, sharing, and advancing QA practices through innovation and technology.
 ⭐: Fun fact - I really enjoy gaming and going for walks.
 
 
