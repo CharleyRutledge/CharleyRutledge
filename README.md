@@ -10,7 +10,8 @@ I use Model Context Protocol (MCP) in tandem with testing to integrate AI into m
 I’m confident working independently or collaboratively, with a strong analytical mindset that helps me address challenges effectively and drive continuous improvement.
 
 I’m always open to learning, sharing, and advancing QA practices through innovation and technology.
-⭐: Fun fact - I really enjoy gaming and going for walks.
+
+⭐: Fun fact - I really enjoy gaming and going for runs.
 
 
 ## 🌐 Socials:
