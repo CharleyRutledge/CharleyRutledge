@@ -3,7 +3,7 @@
 ### 💫 About Me:
 I'm a QA professional based in Ireland with hands-on experience in both automation and manual testing. I have developed automation frameworks using C# and Selenium WebDriver, applying the Fluent Interface design pattern to ensure readability, maintainability, and efficiency.
 
-Since 2024, I have worked across a variety of testing approaches including manual, functional, regression, unit, and database testing. I also bring experience with Playwright, Python, and the Cursor IDE.
+I have worked across a variety of testing approaches including manual, functional, regression, unit, and database testing. I also bring experience with Playwright, Python, and the Cursor IDE.
 
 I use Model Context Protocol (MCP) alongside testing to integrate AI into my workflow, enhancing test efficiency, decision-making, and structured communication throughout the QA process. My work is supported by tools like Microsoft Azure DevOps, where I manage test cases, track defects, and maintain visibility across the development lifecycle.
 
