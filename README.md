@@ -17,7 +17,8 @@ I'm always open to learning, sharing, and advancing QA practices through innovat
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/charley-rutledge/)  
 [![Medium](https://img.shields.io/badge/Medium-12100E.svg?logo=medium&logoColor=white)](https://medium.com/@charleysQA)
-[![The QA Perspective]([https://img.shields.io/badge/Medium-12100E.svg?logo=medium&logoColor=white)](https://medium.com/@charleysQA](https://theqaperspective.com/))
+[![The QA Perspective](https://img.shields.io/badge/The%20QA%20Perspective-Website-blue)](https://theqaperspective.com/)
+
 
 
 # 💻 Tech Stack:
