@@ -6,3 +6,9 @@ Current focus:
 - Rule driven and MCP based approaches to AI assisted testing
 
 Writing at https://theqaperspective.com
+
+Current project:
+SpecDrive, a micro SaaS tool that generates structured test cases from written requirements.
+Built with Lovable, Supabase, and Vercel.
+https://specdrive.net/
+
