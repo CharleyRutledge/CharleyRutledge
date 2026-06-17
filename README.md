@@ -18,5 +18,3 @@ Backend: Express, Fastify, Supabase
 AI: Claude, OpenAI
 
 Ops: Vercel, GitHub Actions
-
-Want to go back to the CV now?
